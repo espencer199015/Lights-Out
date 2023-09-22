@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  background-color: yellow; /* Updated background color to yellow */
+}
+
+/* Update cell colors to green, black, and purple */
+.Cell:nth-child(3n+1) {
+  background-color: green;
+}
+
+.Cell:nth-child(3n+2) {
+  background-color: black;
+}
+
+.Cell:nth-child(3n) {
+  background-color: purple;
+}

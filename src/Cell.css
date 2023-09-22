@@ -1,0 +1,9 @@
+.Cell {
+  height: 100px;
+  width: 100px;
+  cursor: pointer;
+}
+
+.Cell-lit {
+  background-color: pink; /* Updated color to pink */
+}
